@@ -22,7 +22,15 @@
 </div>
   
   ##
+  
+  <div align="center">
+    <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WeslleyBastos&repo=Humgry---Landpage&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WeslleyBastos&repo=Firebase-Photo-Gallery&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+    <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WeslleyBastos&repo=instagram-slide-component&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  </div>
  
+  ##
+  
 <div> 
   <a href="https://instagram.com/wessbastos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wessbastos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
