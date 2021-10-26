@@ -20,14 +20,6 @@
   <img align="center" alt="Wess-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wess-nodejs" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-  
-  ##
-  
-  <div align="center">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WeslleyBastos&repo=Humgry---Landpage&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WeslleyBastos&repo=Firebase-Photo-Gallery&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-    <img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WeslleyBastos&repo=instagram-slide-component&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  </div>
  
   ##
   
